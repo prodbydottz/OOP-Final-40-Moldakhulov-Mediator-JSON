@@ -1,0 +1,12 @@
+{
+  "Scenarios": [
+    {
+      "Sender": "ModuleA",
+      "Receivers": [ "ModuleB" ]
+    },
+    {
+      "Sender": "ModuleB",
+      "Receivers": [ "ModuleA" ]
+    }
+  ]
+}
